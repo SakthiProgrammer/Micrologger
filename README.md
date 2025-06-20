@@ -1,6 +1,7 @@
 # MicroLogger
 
 **MicroLogger** is a lightweight, customizable, and thread-safe Java logging utility that supports:
+
 - Colored console output
 - File-based logging with daily rotation
 - Microsecond-precision timestamps
@@ -24,4 +25,5 @@
 Clone this repository and include the `Log.java`, `LogConfig.java`, and other files into your project.
 
 ```bash
-git clone https://github.com/yourusername/micrologger.git
+git clone https://github.com/SakthiProgrammer/Micrologger.git
+```
